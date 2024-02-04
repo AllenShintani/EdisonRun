@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES2022",                               
+    "module": "CommonJS",                               
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,         
+    "skipLibCheck": true                                
+  }
+}
